@@ -1,0 +1,29 @@
+.button__container {
+  margin-top: 200px;
+  text-align: center;
+}
+.button {
+  background-color:green;
+  border: none;
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  width: 200px;
+}
+.head {
+  color: green;
+  text-align:center;
+  margin-top: 200px;
+}
+.columns {
+  color:green;
+  text-align: center;
+  font-size: 16px;
+  margin-top: 200px;
+}
+.toolbar{
+  margin-top: 200px;
+}
+/*body {
+  background-image: url("../public/assets/cars.jpg");
+}*/
